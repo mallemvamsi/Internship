@@ -1,0 +1,90 @@
+sno,year,Title_of_the_project,Executing_Agency,Total_outlay
+1,2000,Next Generation (4G Advanced) Wireless Tech Research,"CEWiT, Chennai",17000000
+2,2000,"Multiuser MIMO in 3GPP Long Term Evolution (LTE) standard using Soft-computing Tools""",Dibrugarh University,3950000
+3,2000,"Converged Cloud Communication Technologies (3,08,00,000)",IIT Hyderabad,2500000
+4,2001,Energy efficient radio access technologies and networking for 4G LTE broadband wireless access network,IIIT Bangalore,4000000
+5,2001,"Early Fire detection and Safe Exit Guiding System jointly by CDAC, Bangalore & IISc Bangalore",CDAC Bangalore,7000000
+6,2001,"Early Fire detection and Safe Exit Guiding System jointly by CDAC, Bangalore & IISc Bangalore",IISc Bangalore,2000000
+7,2001,Dev of Tracking System for Controlling Illegal Mining and Coal Transportation in NE Coalfields,CIMFR. Dhanbad,12000000
+8,2002,Technology Dev for Autonomic Energy Aware Management of Network & Cloud,"CDAC, Trivandrum",2940000
+9,2003,Dev of Feasibility Assessment model for Adaptation of underground coal fasification technology in NER,CIMFR. Dhanbad,3596000
+10,2004,Next Generation Waveform Development for SDR Application,"CDAC, Trivandrum",3377000
+11,2004,SDR Dev Platform for Researchers and Academia,"CDAC, Trivandrum",1233000
+12,2005,Pilot Deployment of Multilingual DVB Subtitle solution in four Metro Centres of Doordarshan,"CDAC, Pune",18479000
+13,2005,Project Technology Development for Mobile Ad-Hoc Network,"CDAC, Trivandrum",2500000
+14,2005,"Control of Cyber-Physical Systems - Applications to Smart Grid and Formation of UAVs by IIT Kanpur & ABV-IIITM, Gwalior",IIT Kanpur,4680000
+15,2005,"Control of Cyber-Physical Systems - Applications to Smart Grid and Formation of UAVs by IIT Kanpur & ABV-IIITM, Gwalior",ABV-IIITM Gwalior,2755000
+16,2005,Low Power Terabit / Second Interconnects for Broadband Communication Links,IIT Bombay,1000000
+17,2006,Design & Development of Indian Sign Language Captioning Framework,"CDAC, Pune",6854000
+18,2006,Framework of LTE based system for enhanced security and Quality service,BEL Bangalore,5600000
+19,2006,Building a Cyber Physical System for Healthcare Applications over a Managed 6LoWPAN network using wearable devices,IISc Bangalore,1600000
+20,2006,Small Cell WiFi Networks for the Enterprise by Indraprastha Institute of Information Tech,IIIT Delhi,4000000
+21,2006,Design and Dev of Compact Co-planar Patch and fractal Antennas for Wideband and Ulatra Wideband Comm systems,Univ of Rajasthan,1920000
+22,2008,Wireless Body Area Network for Health Monitoring,IIT Delhi,2809016
+23,2008,"Green Sensor Networks for Air Quality support by IIT, Delhi and IITH-Hyd",IIT -D,1000000
+24,2008,"Green Sensor Networks for Air Quality support by IIT, Delhi and IITH-Hyd",IIT-Hyd,1414197
+25,2008,Study of Software Defined Networks for a New Networking Era,CDAC Tvm,"200,000"
+26,2008,An Ulatra low Cost Microwave Imaging System using active RFID for Surveillance Applications,IIT-D,1746853
+27,2008,"Project Proposal on WSN for protecting wildlife and humans - IISC bangalore, IIITA & Wildlife Institute Dehradun",IISc Bangalore,1558000
+28,2008,Design of Robust Comm. Receiver based on OFDM in Interference Limited Channels for TVWS,IIT Indore,1500000
+29,2008,SoC approaches for Design of soft computation aided transreceivers and adaptive antenna design,Gauhati Univ,1680000
+30,2008,Distributed Bayesian learning for Big Data with application to 4G wireless networks,IISc Bangalore,1215000
+31,2009,Internet of Things (IOT) for smarter healthcare,IITH,7000000
+32,2009,Next Generation (4G Advanced) Wireless Tech Research,"CEWiT, Chennai",6000000
+33,2009,Dev of low complexity near optimal detector and its ASIC implementation for wireless MIMO applications,MPUAt Udaipur,1000000
+34,2009,On line City Air pollution monitoring with moving node in GSM network,IMMT CSIR Bhubneswar,1500000
+35,2009,Cooperative MIMO Framework for Chaos-based Sensor Networks,Gawahati Univ,5000000
+36,2009,Safety Alert System using dedicated Short Range Communication for on Road Vehicles,CDAC Hyd,2500000
+37,2009,Design & Implementation of Cellular Cognitive Radio Network,IIIT Hyd,1000000
+38,2009,Safety Alert System using dedicated Short Range Communication for on Road Vehicles,CDAC Tvm,2700000
+39,2010,Spectrum Aware Rural Connectivity (SPARC),IIT Delhi IIT B,1499414
+40,2010,MAC protocol design for Cognitive Radio Networks,Tezpur Univ Assam,2284000
+41,2010,SOC approaches for Design of soft computation aided transceivers and adaptive antenna design,CDAC Pune,1490000
+42,2010,Multi Mobile Wireless Sensor Networks in Tracking and Surveillance,IIT Kanpur,39962000
+43,2010,NRC FOSS,"CDAC Chennai and AU KBC Research Centre, Anna University, Chennai",5394700
+44,2010,Establishment of BOSS Support Centres & Business Development,CDAC Chennai,2151000
+45,2010,NRCFOSS Phase-II,"CDAC (Chennai, Hyderabad, Mumbai, Delhi), IIT-M, IIT-B, AU-DBC Chennai",2064790
+46,2010,Establishment of BOSS Support Centres & Business Development: Phase-II,CDAC Chennai,2244320
+47,2010,CBSE Trainers Training & Students Talent Transformation,"C-DAC (Chennai, Mumbai, Bangalore, Delhi)",9042000
+48,2011,Computer Enabled Continuous and Comprehensive Evaluation (CCE) using Adaptive Learning Technologies,"CDAC, Mumbai & Amrita Vishwa Vidyapeetham, Kerala.",2179000
+49,2011,Localization and Hardware Interfacing for Android / BOSS based devices,"ICFOSS, Kerala and C-DAC, Chennai & Delhi",1600000
+50,2011,Bharati-Sim: An advanced Micro Architectural Simulator,IIT Delhi,6071000
+51,2011,Self Aware Service Oriented Component based Operating System,"IIT-Madras, C-DAC, Chennai, Hyderabad and Delhi",849860
+52,2011,"Foundation of Trusted and Scalable Last Mile Healthcare, Indo-US Joint R&D Project","IIT-Delhi, AIIMS, Delhi , C-DAC, Chennai, Dartmouth College & Rice University, USA",130400
+53,2012,"Pervasive Sensing and Computing Technologies for Energy and Water Sustainability in Buildings, Indo-US joint R&D Project","IIIT-Delhi, C-DAC, Chennai & UCLA, USA",1604000
+54,2012,Designing a Smarter and Greener Electric Grid : A Sensor Data Driven Approach � Indo-US joint R&D Project,"IIT-Mumbai, C-DAC Mumbai and C-DAC Thiruvananthapuram & UMASS, USA",1296000
+55,2012,Development of Integer Based Homomorphic Encryption Techniques for Data Privacy and Auditing in Cloud Computing,Jawaharlal Nehru Technological University Hyderabad (JNTUHCEH),4848000
+56,2012,Capacity building in WSN Security and Training in J&K State,NIELIT,5274000
+57,2013,Creating mass cyber security awareness among school children college student and public through appropriate training and campaign mechanism in North Eastern states of Mizoram Nagaland,NIELIT,22814000
+58,2013,Proposal for 揅ybercrrime Awarness Workshop for Law Enforcement Agencies� (LEA) � Phase -II,Data Security Council of India (DSCI) New Delhi,2998000
+59,2013,Analyzing and Measuring Trustworthiness of User-Gernated Content and Userson Multiple Online Social Media to Counter cybercrime,IIIT Delhi,"75,000"
+60,2013,Design and Development of system for Detecting Digitized Document frauds,IIIT-Delhi,8112000
+61,2014,"Design & Implementation of a secure communication system for reduced complexity by National Institute of Technology, Calicut .",NIT-Calicut,3888000
+62,2014,Development of Network Traffic Classification Based Approach for Detection,,6082000
+63,2014,Multi-Model Broadcast Analytics-Structured Evidence Visualization for Events of security concern,"IIT Guwahati, Assam",13951000
+64,2014,Implementation and Analysis of a quantum key distribution protocol for network security,Assam University-Silchar.,3261600
+65,2014,Establishment of Cyber security and forensic Training facility for technical teacher training,NITTTR Chandigarh,4565000
+66,2014,Design and Development of Digital forensic tools for clouds laas,BITS Pilani -Hyderabad Campus,5496000
+67,2015,To deliver the information security assurance framework with implementation and assessment aids for users implementing e-governance projects,"MDI, Gurgaon",5195000
+68,2015,Development of face recognition system for Handaling large database and Development of advanced techniques for video enhancement,CDAC Kolkata,205000
+69,2015,"Research on Multimodal context switching using multispectral face, periocular and Iris recognition at a distance",IIIT Delhi,12055000
+70,2015,Design and Development of an Online Information Security Metrics Tool,"Jadavpur University, Kolkata",18388000
+71,2016,Development of an Intelligent adaptive video monitoring and recording system,"IIT, Madras",14904000
+72,2016,Design Development and Enhancement of Cyber Forensics tools,"C-DAC, Thirvannanthapuram",80525000
+73,2017,Development of Tool for Detection of XML Based Injection Vulnerabilities in Web Applications,"NIT, Surathkal",3816000
+74,2017,Design & Development of Honeynet System for Broadband Networks,C-DAC Mohali,24620000
+75,2017,Study and Analysis of Power Analysis Waveforms of Side Channel Attacks to identify the Cryptosystems,"Assam University, Silchar",1100000
+76,2018,Cybercrime Awareness Workshop for Law Enforcement Agencies (LEA)-Phase III�,DSCI New Delhi,9120000
+77,2018,Design and Development of digital Multimedia Forgery Detection System,IIIT Delhi,498000
+78,2018,Development of Robust and Genernic Model of e-Security Index,DSCI New Delhi,4517000
+79,2018,Design and Implementation of static analysis techniques for detecting security vulnerabilities in android application,IISc Bangalore,5370000
+80,2018,Security Analysis Framework for Anroid Platform,MNIT Jaipur,5550000
+81,2018,Setting up of National Digital Crime Resource and Training Centre (NDCRTC)By SVP,National Policy Academy C-DAC Hyderabad,368580
+82,2018,"Creating mass cyber security awareness among schools, colleges and government employees through appropriate training and campaign mechanism in NE states of Manipur and Sikkim",NIELIT Centres IMPHAL and Gangtok,15494000
+83,2019,Development of person identification system using online handwriting,IIT Guwahati,72.00.000
+84,2019,Development of a Robust speaker Authentication system,Rajiv Gandhi University,4746000
+85,2019,Setting up of Cyber Forensic Training Centre (Cyber Centre) for Uttarakhand Police,C-DAC Noida,1236000
+86,2019,Enhancement of Cyber Forensic Lab for advanced training to law enforcement agencies to handle emerging cyber crimes and capacity building of youths in the area of cyber security in NE states,"NIELIT centres, Kohima",152000
+87,2019,Development of Cyber Security Test Bed Specifications and test Methodologies for Industrial Control Systems,C-DAC Thiruvananthapuram,5581000
+88,2019,Development of Algorithms for Matching near-infrared facial images to visible light images across variation in pose and resolution,"IISc ,Bangalore",2654000
+89,2019,Development of security solution for defence against attacks in virtualization and hypervisor technologies for cloud computing,"C-DAC, Bangalore",15334000
